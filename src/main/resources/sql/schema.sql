@@ -11,6 +11,6 @@ CREATE TABLE IF NOT EXISTS `admin_user`
   DEFAULT CHARSET = utf8mb4
   COLLATE = utf8mb4_general_ci;
 
-INSERT INTO `admin_user` (username, user_phone, `password`, avatar)
-values ('root', '', '$2a$10$a.6pvIt48KwZ.Zu/Sz.wruTK10WhIx8WK1iglIE1ARVHuJYcBlfYm', ''),
-       ('user', '', '$2a$10$a.6pvIt48KwZ.Zu/Sz.wruTK10WhIx8WK1iglIE1ARVHuJYcBlfYm', '');
+# INSERT INTO `admin_user` (username, user_phone, `password`, avatar)
+# values ('root', '', '$2a$10$a.6pvIt48KwZ.Zu/Sz.wruTK10WhIx8WK1iglIE1ARVHuJYcBlfYm', ''),
+#        ('user', '', '$2a$10$a.6pvIt48KwZ.Zu/Sz.wruTK10WhIx8WK1iglIE1ARVHuJYcBlfYm', '');

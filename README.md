@@ -16,7 +16,7 @@ Java 后端快速开发模板
 ### 功能模块
 
 - [x] [初始化数据库](http://t.csdn.cn/xnjsS)
-- [ ] Spring Security 权限拦截
+- [x] Spring Security 权限拦截
 - [ ] 登录获取唯一 token 标识
 - [ ] 标准化 Restful 接口返回
 - [ ] 用户管理
